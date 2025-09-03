@@ -1,0 +1,1 @@
+This folder contains the details of all of the courses I have taken over my 7 semesters at IISER. Specifically for courses that involve programming assignments or a heavy applied-quantitative set of tools, I have included any code that I had written as well in subfolders.

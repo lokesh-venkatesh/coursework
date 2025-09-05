@@ -1,0 +1,82 @@
+rollno,score,error
+20221059,8.96,
+20221055,8.84,
+20211058,8.96,
+20221266,8.96,
+20221269,5.0,
+20211127,8.91,
+20211266,8.85,
+20211143,8.9,
+20211072,3.0,"traceback (most recent call last):
+  file ""<>/iiser/assignments/assignment 01/checker.py"", line 46, in load_linreg_and_test
+    model = linreg(data)
+            ^^^^^^^^^^^^
+  file ""<>/iiser/assignments/assignment 01/student_submissions/asgn1_chitvan_singh.py"", line 26, in __init__
+    self.xn = data[:, :-1]
+              ~~~~^^^^^^^^
+typeerror: list indices must be integers or slices, not tuple
+"
+20211251,8.85,
+20221274,8.96,
+20221150,8.96,
+20211132,9.71,
+20211005,8.96,
+20221163,5.0,
+20211047,8.96,
+20191222,7.36,
+20221263,8.85,
+20221068,8.96,
+20221111,8.96,
+20221050,8.96,
+20211055,8.96,
+20211041,8.96,
+20211157,8.96,
+20221227,8.96,
+20211139,6.2,
+20211189,8.87,
+20211154,8.96,
+20221175,8.96,
+20211200,9.71,
+20221151,3.0,"traceback (most recent call last):
+  file ""<>/iiser/assignments/assignment 01/checker.py"", line 58, in load_linreg_and_test
+    model.fit(n_iters=80)
+  file ""<>/iiser/assignments/assignment 01/student_submissions/asgn1_malhar_alpesh_patel.py"", line 26, in fit
+    x = self.data[:, 0]
+        ~~~~~~~~~^^^^^^
+typeerror: list indices must be integers or slices, not tuple
+"
+20211147,5.68,
+20211007,8.96,
+20211130,5.0,
+20221148,8.96,
+20211017,8.96,
+20221011,8.96,
+20211117,9.05,
+20221194,5.0,
+20221233,3.0,"traceback (most recent call last):
+  file ""<>/iiser/assignments/assignment 01/checker.py"", line 46, in load_linreg_and_test
+    model = linreg(data)
+            ^^^^^^^^^^^^
+  file ""<>/iiser/assignments/assignment 01/student_submissions/asgn1_sadekar_suchet_samir.py"", line 7, in __init__
+    self.x = data.t[0]
+             ^^^^^^
+attributeerror: 'list' object has no attribute 't'
+"
+20221015,8.98,
+20221175,8.96,
+20221126,8.96,
+20221284,8.96,
+20211223,8.96,
+20211245,8.8,
+20211225,8.96,
+20211206,8.96,
+20211145,5.0,
+20211211,8.96,
+20221031,8.96,
+20211226,8.85,
+20221010,8.96,
+20221108,8.57,
+20211222,8.96,
+20211006,0.0,File not found.
+20211070,0.0,File not found.
+20211178,0.0,File not found.
